@@ -17,11 +17,11 @@ Portfólio pessoal de Lucas da Silva Santos, estudante de Ciência de Dados na F
 
 ## Em desenvolvimento
 
-- **Jarvis:** assistente pessoal para Windows com voz e automação.
+- **UTRON (versão 18):** assistente pessoal para Windows com interface Electron/TypeScript, backend Python/FastAPI, voz, integração com IA e ferramentas locais. [Repositório](https://github.com/lucas287/UTRON).
 - **NegriClips AI:** ideia de ferramenta para edição automatizada de vídeos e criação de cortes.
 - **Vitrine Marketplace:** conceito de marketplace local para comerciantes e consumidores.
 
-Esses três projetos ainda não possuem repositórios públicos ou demonstrações publicadas. Serão adicionados quando estiverem prontos para divulgação.
+O UTRON já possui repositório público, mas continua em desenvolvimento. NegriClips AI e Vitrine Marketplace ainda estão em planejamento/concepção e serão publicados quando estiverem prontos para divulgação.
 
 ## Executar localmente
 
