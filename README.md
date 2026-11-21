@@ -1,31 +1,40 @@
-# Lucas Santos — Portfólio
+# Lucas da Silva Santos — Portfólio
 
-Portfólio pessoal de Lucas da Silva Santos, estudante de Ciência de Dados na FATEC Adamantina e desenvolvedor em formação.
+Portfólio profissional de **Lucas da Silva Santos**, com apresentação de formação acadêmica, competências e projetos de desenvolvimento.
 
-## Acessar
+## Acesse
 
-- **Site publicado:** https://portfolio-lucas287.vercel.app
+- **Portfólio online:** https://portfolio-lucas287.vercel.app
 - **GitHub:** https://github.com/lucas287
+
+## Formação
+
+- **Técnico em Informática para Internet** — formação concluída.
+- **Ciência de Dados — FATEC Adamantina** — cursando atualmente.
 
 ## Projetos em destaque
 
-| Projeto | Tecnologias | Links |
+| Projeto | Descrição | Tecnologias / links |
 |---|---|---|
-| Voinich Motors | PHP, MySQL, HTML, CSS e JavaScript | [Código-fonte](https://github.com/lucas287/siteATUALIZADO2.0) |
-| COL — Controle Operacional Lógico | React, TypeScript, Node.js e PostgreSQL | [Frontend](https://github.com/lucas287/COL-Front-master) · [Backend](https://github.com/lucas287/COL-BACK) |
-| Vestra | React, TypeScript e Vite | [Demonstração online](https://vestra-roan.vercel.app/) · [Código-fonte](https://github.com/lucas287/vestra) |
+| **Voinich Motors** | Aplicação web acadêmica para consulta e gerenciamento de veículos. | PHP, MySQL, HTML, CSS e JavaScript · [Repositório](https://github.com/lucas287/siteATUALIZADO2.0) |
+| **COL — Controle Operacional Lógico** | Sistema de gestão operacional com frontend e backend em desenvolvimento. | React, TypeScript, Node.js e Express · [Frontend](https://github.com/lucas287/COL-Front-master) · [Backend](https://github.com/lucas287/COL-BACK) |
+| **Vestra** | Plataforma demonstrativa de pesquisa de mercado e apoio à decisão comercial. | React, TypeScript e Vite · [Aplicação](https://vestra-roan.vercel.app/) · [Repositório](https://github.com/lucas287/vestra) |
 
-## Em desenvolvimento
+## Projetos em desenvolvimento
 
-- **UTRON (versão 18):** assistente pessoal para Windows com interface Electron/TypeScript, backend Python/FastAPI, voz, integração com IA e ferramentas locais. [Repositório](https://github.com/lucas287/UTRON).
-- **NegriClips AI:** ideia de ferramenta para edição automatizada de vídeos e criação de cortes.
-- **Vitrine Marketplace:** conceito de marketplace local para comerciantes e consumidores.
+- **UTRON:** assistente pessoal para Windows, com interface desktop, interação por voz e texto, integração com IA e ferramentas locais. [Repositório](https://github.com/lucas287/UTRON)
+- **NegriClips AI:** conceito de automação para edição de vídeos e criação de cortes.
+- **Vitrine Marketplace:** conceito de marketplace para conectar comerciantes e consumidores locais.
 
-O UTRON já possui repositório público, mas continua em desenvolvimento. NegriClips AI e Vitrine Marketplace ainda estão em planejamento/concepção e serão publicados quando estiverem prontos para divulgação.
+> Os projetos são identificados conforme seu estágio atual. Itens em planejamento ou desenvolvimento não são apresentados como produtos finalizados.
+
+## Tecnologias e conhecimentos
+
+React · TypeScript · JavaScript · Node.js · Python · PHP · SQL · MySQL · HTML · CSS · Git · GitHub · Vite
 
 ## Executar localmente
 
-O portfólio é uma página estática. Basta clonar o repositório e abrir `index.html` no navegador.
+O portfólio é uma página estática. Clone o repositório e abra o arquivo `index.html` no navegador:
 
 ```bash
 git clone https://github.com/lucas287/portfolio.git
@@ -34,8 +43,8 @@ cd portfolio
 
 ## Publicação
 
-O projeto está conectado à Vercel. Commits na branch `main` acionam a implantação automática.
+O repositório está conectado à Vercel. Atualizações na branch `main` acionam a implantação automática.
 
 ---
 
-Desenvolvido por Lucas Santos.
+Desenvolvido por **Lucas da Silva Santos**.
